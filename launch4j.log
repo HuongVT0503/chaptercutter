@@ -1,0 +1,22 @@
+
+
+Version:	3.50
+CmdLine:	D:\sideprojects\chaptercutter\chaptercutter.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\sideprojects\chaptercutter\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.021.000
+Java max ver:	
+Substitute:	JAVA_HOME = E:\Java\jdk-21
+Substitute:	PATH = E:\Java\jdk-21\bin;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-22\bin;C:\Program Files\Java\jdk-22\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\VS\Git\cmd;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\PowerShell\7\;E:\apache\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;E:\VS\Git\bin;E:\VS\Git\cmd\;C:\Program Files\Cloudflare\Cloudflare WARP\;E:\Java\jdk-21\bin;E:\Scripts\;E:\;C:\Users\ADMIN\AppData\Local\Programs\Python\Launcher\;C:\Users\ADMIN\AppData\Local\Microsoft\WindowsApps;C:\msys64\ucrt64\bin;E:\apache\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Users\ADMIN\AppData\Local\GitHubDesktop\bin;E:\Java\jdk-21\bin
+JRE paths:	E:\Java\jdk-21;E:\Java\jdk-21\bin;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-22\bin;C:\Program Files\Java\jdk-22\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\VS\Git\cmd;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\PowerShell\7\;E:\apache\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;E:\VS\Git\bin;E:\VS\Git\cmd\;C:\Program Files\Cloudflare\Cloudflare WARP\;E:\Java\jdk-21\bin;E:\Scripts\;E:\;C:\Users\ADMIN\AppData\Local\Programs\Python\Launcher\;C:\Users\ADMIN\AppData\Local\Microsoft\WindowsApps;C:\msys64\ucrt64\bin;E:\apache\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Users\ADMIN\AppData\Local\GitHubDesktop\bin;E:\Java\jdk-21\bin
+Check launcher:	E:\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_006 / 64-Bit (OK)
+Main class:	com.example.chaptercutter.HelloApplication
+Info:		Classpath not defined.
+Launcher:	E:\Java\jdk-21\bin\javaw.exe
+Launcher args:	-classpath "D:\sideprojects\chaptercutter\chaptercutter.exe" com.example.chaptercutter.HelloApplication
+Args length:	103/32768 chars
+Exit code:	0
